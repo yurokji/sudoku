@@ -1,3 +1,6 @@
+# 작성자: lowlevel coder
+# DISCLAIMER: 코드의 정확성을 보장할 수 없으니 참고하고 사용하세요.
+
 from random import randint, sample
 # 리스트를 안전하게 값을 복사하기 위해 사용한다
 from copy import deepcopy
